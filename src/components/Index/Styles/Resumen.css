@@ -1,0 +1,14 @@
+.profile_picture{
+    border-radius: 5px;
+    max-width: 240px;
+}
+@media (min-width: 768px){
+    .text-md-left {
+        text-align: left !important;
+    }
+}
+@media (max-width: 768px){
+    .text-md-left {
+        text-align: center !important;
+    }
+}
